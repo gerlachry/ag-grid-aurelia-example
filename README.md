@@ -1,5 +1,6 @@
 # Example ag-grid-aurelia using javascript
 
+- requires npm, gulp and Aurelia CLI, then:
 - npm install
 - au run --watch
 
